@@ -12,6 +12,9 @@ The implemented shell supports a range of essential commands, each serving a spe
 command allows users to navigate and change the current default directory, with the ability to report the current directory
 if no argument is provided. Furthermore, it updates the PWD (Present Working Directory) environment variable,
  ensuring consistent tracking of the current directory.
+ 
+ The sample screenshot for the above command:
+
 
 <h2>Execution of Commands</h2>
 
