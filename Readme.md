@@ -18,8 +18,14 @@ if no argument is provided. Furthermore, it updates the PWD (Present Working Dir
  <img src="https://github.com/shaalni01/Command-Line-Interface/blob/main/assets/Creating%20cd%20command.JPG"/>
 
 `clr`: The "clr" command clears the screen, providing users with a clean and uncluttered environment for executing subsequent commands.
+The sample screenshot for the clr command
+
+<img src="https://github.com/shaalni01/Command-Line-Interface/blob/main/assets/Creating%20clr%20command.JPG"/>
 
 `dir`: Meanwhile, the "dir" command lists the contents of a specified directory, enabling users to examine the files and subdirectories it contains.
+The sample screenshot for the dir command is
+
+<img src=""
 
 `environ` :The "environ" command provides users with a valuable overview of all the environment strings associated with the shell session.
  This includes variables and settings that influence the shell's behavior and functionality.
