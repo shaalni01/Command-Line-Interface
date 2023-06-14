@@ -13,10 +13,9 @@ command allows users to navigate and change the current default directory, with 
 if no argument is provided. Furthermore, it updates the PWD (Present Working Directory) environment variable,
  ensuring consistent tracking of the current directory.
  
- The sample screenshot for the above command:
-
-
-<h2>Execution of Commands</h2>
+ <h2>Execution of Commands</h2>
+ The sample screenshot for the cd command
+ <img src="https://github.com/shaalni01/Command-Line-Interface/blob/main/assets/Creating%20cd%20command.JPG"/>
 
 `clr`: The "clr" command clears the screen, providing users with a clean and uncluttered environment for executing subsequent commands.
 
