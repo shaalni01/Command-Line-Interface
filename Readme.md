@@ -25,7 +25,7 @@ The sample screenshot for the clr command
 `dir`: Meanwhile, the "dir" command lists the contents of a specified directory, enabling users to examine the files and subdirectories it contains.
 The sample screenshot for the dir command is
 
-<img src=""
+<img src="https://github.com/shaalni01/Command-Line-Interface/blob/main/assets/Creating%20Dir%20Command.JPG"/>
 
 `environ` :The "environ" command provides users with a valuable overview of all the environment strings associated with the shell session.
  This includes variables and settings that influence the shell's behavior and functionality.
