@@ -32,6 +32,9 @@ The sample screenshot for the dir command is
 
 `echo`:The "echo" command allows users to display custom comments on the screen, facilitating informative and interactive interactions. 
  Multiple spaces or tabs within the comment are intelligently reduced to a single space, ensuring clarity in the displayed output.
+ The sample screensht for the echo command
+ 
+ <img src="https://github.com/shaalni01/Command-Line-Interface/blob/main/assets/Creating%20Quit%20Command.JPG"/>
 
 `help`:For users seeking guidance and assistance, the "help" command proves invaluable. It presents a detailed list of all available commands, 
 along with their inputs and behaviors. This comprehensive command reference equips users with the knowledge to maximize their utilization of 
