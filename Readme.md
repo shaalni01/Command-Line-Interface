@@ -41,6 +41,9 @@ the shell's capabilities.
  press the "Enter" key. This functionality is particularly useful when users require a momentary interruption without exiting the shell.
 
 `quit`:Lastly, the "quit" command gracefully terminates the shell session, allowing users to exit the environment effortlessly.
+The same screenshot for the Quit Command
+
+<img src="https://github.com/shaalni01/Command-Line-Interface/blob/main/assets/Creating%20Quit%20Command.JPG"/>
 
 Additionally, this shell implementation provides support for output redirection, a powerful feature that enhances usability and versatility. 
 By utilizing the redirection tokens ">" and ">>", users can redirect command outputs to specified files. If the file does not exist, 
